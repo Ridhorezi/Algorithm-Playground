@@ -21,14 +21,14 @@ This project contains implementations of fundamental algorithms using Java. It i
 Algoritma/
 ├── Algoritma.java       # Main class containing various algorithm implementations
 ├── AlgoritmaTest.java   # Unit tests using JUnit
-└── README.md            # roject documentation
+└── README.md            # project documentation
 ```
 
 ## 🚀 How to Run
 
 ### Requirements
 - Java 8 or above
-- Maven or any IDE with JUnit 5 support
+- Maven or any Java-compatible IDE (e.g. IntelliJ, Eclipse)
 
 ### Run Tests
 ```bash
